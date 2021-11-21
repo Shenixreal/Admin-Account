@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family: montserrat, sans-serif;
+}
+
+input[type="button"]{
+    width: 10%;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    /*background: blue;*/
+    font-size: 16px;
+    color: black;
+    /*font-weight: 700;*/
+    cursor: pointer;
+    outline: none;
+    text-align: center;
+}
+
+input[type="submit"]{
+    width: 10%;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    /*background: blue;*/
+    font-size: 16px;
+    color: black;
+    /*font-weight: 700;*/
+    cursor: pointer;
+    outline: none;
+    text-align: center;
+}
